@@ -1,0 +1,326 @@
+Kabut asap	JJ
+akibat
+kebakaran
+hutan
+dan	CC
+lahan
+yang	SC
+terjadi
+di	IN
+wilayah
+pesisir
+Provinsi	NNP
+Riau	NNP
+terpantau
+mulai
+menyelimuti
+Kota	NNP
+Pekanbaru	NNP
+.	Z
+
+Kabut asap	JJ
+tipis
+yang	SC
+terpantau
+sejak	IN,SC
+pagi
+tadi	PR
+itu	PR
+merupakan
+kiriman
+dari	IN
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+,	Z
+yang	SC
+dalam	IN,NN
+2	CD
+hari
+terakhir	OD
+dilanda
+Karhutla	NNP
+hebat
+.	Z
+
+
+
+
+"	Z
+Iya
+,	Z
+memang	RB
+asap
+.	Z
+
+Tapi	CC
+kiriman
+dari	IN
+Meranti	NNP
+,	Z
+"	Z
+
+kata
+Staf	NNP
+analis
+Badan	NNP
+Meteorologi	NNP
+,	Z
+Klimatologi	NNP
+,	Z
+dan	CC
+Geofisika	NNP
+(BMKG)
+Stasiun	NNP
+Pekanbaru	NNP
+,	Z
+Bibin	NNP
+Sulyanto	NNP
+di	IN
+Pekanbaru	NNP
+,	Z
+yang	SC
+dilansir
+Antara	NNP
+,	Z
+Minggu	NNP
+(3/3/2019).	CD
+
+
+
+Selain	IN,CC
+itu	PR
+,	Z
+dia	PRP
+juga	RB
+memastikan
+bahwa	SC
+jarak
+pandang
+di	IN
+Kota	NNP
+Pekanbaru	NNP
+masih	MD
+cenderung
+normal
+sekitar	IN,NN,RB
+8	CD
+km	NND
+.	Z
+
+Kabut asap	JJ
+juga	RB
+belum	NEG
+menganggu
+aktivitas
+penerbangan
+di	IN
+Bandara Internasional	NN
+Sultan	NNP
+Syarif	NNP
+Kasim	NNP
+II	NNP
+Pekanbaru	NNP
+.	Z
+
+
+
+
+"	Z
+Visibility
+masih	MD
+delapan	CD
+kilometer
+.	Z
+
+Masih	MD
+asap
+tipis
+dan	CC
+belum	NEG
+mengganggu
+penerbangan
+,	Z
+"	Z
+
+ujarnya
+.	Z
+
+
+
+
+Sejumlah	CD
+warga
+Pekanbaru	NNP
+mengaku
+mulai
+merasakan
+gangguan
+seperti	IN,SC
+mata
+yang	SC
+mulai
+pedih
+akibat
+kabut asap	JJ
+yang	SC
+terjadi
+di	IN
+Kota	NNP
+Pekanbaru	NNP
+.	Z
+
+Muhammad
+Halimi	NNP
+,	Z
+warga
+yang	SC
+tinggal
+di	IN
+Panam	NNP
+,	Z
+Pekanbaru	NNP
+mengaku
+udara
+tidak	NEG
+seperti	IN,SC
+biasanya	RB
+,	Z
+dan	CC
+cenderung
+terlihat
+putih
+berasap
+.	Z
+
+
+
+
+"	Z
+Cuaca
+memang	RB
+tidak	NEG
+seperti	IN,SC
+biasa
+.	Z
+
+Mata
+juga	RB
+seperti	IN,SC
+pedih
+saat	SC,NN
+kita	PRP
+mengendarai
+motor
+.	Z
+
+Saya	PRP
+baru	MD,JJ,NN
+sadar
+kalau	SC
+ini	PR
+kabut asap	JJ
+,	Z
+"	Z
+
+kata
+Halimi	NNP
+.	Z
+
+
+
+
+BMKG
+Stasiun	NNP
+Pekanbaru	NNP
+mendeteksi
+puluhan	CD
+titik panas	NN
+sepanjang
+akhir pekan	NN
+ini	PR
+di	IN
+pesisir
+Riau	NNP
+.	Z
+
+Berbeda
+dengan	IN,SC
+sebelumnya	SC
+,	Z
+saat	SC,NN
+titik panas	NN
+tertumpu
+di	IN
+Pulau	NNP
+Rupat	NNP
+Bengkalis	NNP
+,	Z
+kali
+ini	PR
+BMKG	NNP
+mendeteksi
+titik panas	NN
+menyebar
+di	IN
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+.	Z
+
+
+
+
+Pada	IN
+Minggu	NNP
+hari
+ini	PR
+,	Z
+BMKG	NNP
+mendeteksi
+total
+43	CD
+titik panas	NN
+yang	SC
+mengindikasikan
+Karhutla	NNP
+di	IN
+seluruh	CD
+Riau	NNP
+.	Z
+
+Dari	IN
+43	CD
+titik panas	NN
+,	Z
+27	CD
+titik	NN,NND
+diantaranya
+terdeteksi
+di	IN
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+.	Z
+
+Selain	IN,CC
+itu	PR
+,	Z
+13	CD
+titik panas	NN
+terpantau
+di	IN
+Pelalawan	NNP
+,	Z
+dua	CD
+titik	NN,NND
+di	IN
+Bengkalis	NNP
+dan	CC
+satu	CD
+lainnya
+di	IN
+Indragiri	NNP
+Hilir	NNP
+.	Z
+

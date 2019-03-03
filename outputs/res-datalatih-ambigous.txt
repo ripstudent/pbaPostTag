@@ -1,0 +1,453 @@
+
+Kabut asap	JJ
+
+
+
+
+
+
+dan	CC
+
+
+yang	SC
+
+
+di	IN
+
+
+
+
+Provinsi	NNP
+Riau	NNP
+
+
+
+
+
+
+Kota	NNP
+Pekanbaru	NNP
+.	Z
+
+
+Kabut asap	JJ
+
+
+yang	SC
+
+1
+sejak	IN,SC
+
+
+tadi	PR
+itu	PR
+
+
+
+7
+dari	IN
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+,	Z
+yang	SC
+dalam	IN,NN
+2	CD
+
+
+terakhir	OD
+
+
+Karhutla	NNP
+
+
+.	Z
+
+
+
+
+
+
+
+
+"	Z
+
+
+,	Z
+memang	RB
+
+
+.	Z
+
+
+Tapi	CC
+
+
+dari	IN
+Meranti	NNP
+,	Z
+"	Z
+
+
+
+
+Staf	NNP
+
+
+Badan	NNP
+Meteorologi	NNP
+,	Z
+Klimatologi	NNP
+,	Z
+dan	CC
+Geofisika	NNP
+
+
+Stasiun	NNP
+Pekanbaru	NNP
+,	Z
+Bibin	NNP
+Sulyanto	NNP
+di	IN
+Pekanbaru	NNP
+,	Z
+yang	SC
+
+
+Antara	NNP
+,	Z
+Minggu	NNP
+(3/3/2019).	CD
+
+
+
+
+
+1
+Selain	IN,CC
+itu	PR
+,	Z
+dia	PRP
+juga	RB
+
+
+bahwa	SC
+
+
+
+
+di	IN
+Kota	NNP
+Pekanbaru	NNP
+masih	MD
+
+
+
+1
+sekitar	IN,NN,RB
+8	CD
+km	NND
+.	Z
+
+
+Kabut asap	JJ
+juga	RB
+belum	NEG
+
+
+
+
+
+
+di	IN
+Bandara Internasional	NN
+Sultan	NNP
+Syarif	NNP
+Kasim	NNP
+II	NNP
+Pekanbaru	NNP
+.	Z
+
+
+
+
+
+
+
+
+"	Z
+
+
+masih	MD
+delapan	CD
+
+
+.	Z
+
+
+Masih	MD
+
+
+
+
+dan	CC
+belum	NEG
+
+
+
+
+,	Z
+"	Z
+
+
+
+
+.	Z
+
+
+
+
+
+
+
+
+Sejumlah	CD
+
+
+Pekanbaru	NNP
+
+
+
+
+
+
+
+1
+seperti	IN,SC
+
+
+yang	SC
+
+
+
+
+
+
+kabut asap	JJ
+yang	SC
+
+
+di	IN
+Kota	NNP
+Pekanbaru	NNP
+.	Z
+
+
+
+
+Halimi	NNP
+,	Z
+
+
+yang	SC
+
+
+di	IN
+Panam	NNP
+,	Z
+Pekanbaru	NNP
+
+
+
+2
+tidak	NEG
+seperti	IN,SC
+biasanya	RB
+,	Z
+dan	CC
+
+
+
+
+
+
+
+
+.	Z
+
+
+
+
+
+
+
+
+"	Z
+
+3
+memang	RB
+tidak	NEG
+seperti	IN,SC
+
+
+.	Z
+
+
+
+2
+juga	RB
+seperti	IN,SC
+
+1
+saat	SC,NN
+kita	PRP
+
+
+
+
+.	Z
+
+2
+Saya	PRP
+baru	MD,JJ,NN
+
+
+kalau	SC
+ini	PR
+kabut asap	JJ
+,	Z
+"	Z
+
+
+
+
+Halimi	NNP
+.	Z
+
+
+
+
+
+
+
+
+
+
+Stasiun	NNP
+Pekanbaru	NNP
+
+
+puluhan	CD
+titik panas	NN
+
+
+akhir pekan	NN
+ini	PR
+di	IN
+
+
+Riau	NNP
+.	Z
+
+
+
+1,4
+dengan	IN,SC
+sebelumnya	SC
+,	Z
+saat	SC,NN
+titik panas	NN
+
+
+di	IN
+Pulau	NNP
+Rupat	NNP
+Bengkalis	NNP
+,	Z
+
+
+ini	PR
+BMKG	NNP
+
+
+titik panas	NN
+
+
+di	IN
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+.	Z
+
+
+
+
+
+
+
+
+Pada	IN
+Minggu	NNP
+
+
+ini	PR
+,	Z
+BMKG	NNP
+
+
+
+
+43	CD
+titik panas	NN
+yang	SC
+
+
+Karhutla	NNP
+di	IN
+seluruh	CD
+Riau	NNP
+.	Z
+
+6
+Dari	IN
+43	CD
+titik panas	NN
+,	Z
+27	CD
+titik	NN,NND
+
+
+
+
+di	IN
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+.	Z
+
+1
+Selain	IN,CC
+itu	PR
+,	Z
+13	CD
+titik panas	NN
+
+5
+di	IN
+Pelalawan	NNP
+,	Z
+dua	CD
+titik	NN,NND
+di	IN
+Bengkalis	NNP
+dan	CC
+satu	CD
+
+
+di	IN
+Indragiri	NNP
+Hilir	NNP
+.	Z
+
+
+

@@ -1,0 +1,326 @@
+Kabut asap	JJ
+akibat
+kebakaran
+hutan
+dan
+lahan
+yang
+terjadi
+di
+wilayah
+pesisir
+Provinsi	NNP
+Riau	NNP
+terpantau
+mulai
+menyelimuti
+Kota	NNP
+Pekanbaru	NNP
+.
+
+Kabut asap	JJ
+tipis
+yang
+terpantau
+sejak
+pagi
+tadi
+itu
+merupakan
+kiriman
+dari
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+,
+yang
+dalam
+2
+hari
+terakhir
+dilanda
+Karhutla	NNP
+hebat
+.
+
+
+
+
+"
+Iya
+,
+memang
+asap
+.
+
+Tapi
+kiriman
+dari
+Meranti	NNP
+,
+"
+
+kata
+Staf	NNP
+analis
+Badan	NNP
+Meteorologi	NNP
+,
+Klimatologi	NNP
+,
+dan
+Geofisika	NNP
+(BMKG)
+Stasiun	NNP
+Pekanbaru	NNP
+,
+Bibin	NNP
+Sulyanto	NNP
+di
+Pekanbaru	NNP
+,
+yang
+dilansir
+Antara	NNP
+,
+Minggu	NNP
+(3/3/2019).
+
+
+
+Selain
+itu
+,
+dia
+juga
+memastikan
+bahwa
+jarak
+pandang
+di
+Kota	NNP
+Pekanbaru	NNP
+masih
+cenderung
+normal
+sekitar
+8
+km
+.
+
+Kabut asap	JJ
+juga
+belum
+menganggu
+aktivitas
+penerbangan
+di
+Bandara Internasional	NN
+Sultan	NNP
+Syarif	NNP
+Kasim	NNP
+II	NNP
+Pekanbaru	NNP
+.
+
+
+
+
+"
+Visibility
+masih
+delapan
+kilometer
+.
+
+Masih
+asap
+tipis
+dan
+belum
+mengganggu
+penerbangan
+,
+"
+
+ujarnya
+.
+
+
+
+
+Sejumlah
+warga
+Pekanbaru	NNP
+mengaku
+mulai
+merasakan
+gangguan
+seperti
+mata
+yang
+mulai
+pedih
+akibat
+kabut asap	JJ
+yang
+terjadi
+di
+Kota	NNP
+Pekanbaru	NNP
+.
+
+Muhammad
+Halimi	NNP
+,
+warga
+yang
+tinggal
+di
+Panam	NNP
+,
+Pekanbaru	NNP
+mengaku
+udara
+tidak
+seperti
+biasanya
+,
+dan
+cenderung
+terlihat
+putih
+berasap
+.
+
+
+
+
+"
+Cuaca
+memang
+tidak
+seperti
+biasa
+.
+
+Mata
+juga
+seperti
+pedih
+saat
+kita
+mengendarai
+motor
+.
+
+Saya
+baru
+sadar
+kalau
+ini
+kabut asap	JJ
+,
+"
+
+kata
+Halimi	NNP
+.
+
+
+
+
+BMKG
+Stasiun	NNP
+Pekanbaru	NNP
+mendeteksi
+puluhan
+titik panas	NN
+sepanjang
+akhir pekan	NN
+ini
+di
+pesisir
+Riau	NNP
+.
+
+Berbeda
+dengan
+sebelumnya
+,
+saat
+titik panas	NN
+tertumpu
+di
+Pulau	NNP
+Rupat	NNP
+Bengkalis	NNP
+,
+kali
+ini
+BMKG	NNP
+mendeteksi
+titik panas	NN
+menyebar
+di
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+.
+
+
+
+
+Pada
+Minggu	NNP
+hari
+ini
+,
+BMKG	NNP
+mendeteksi
+total
+43
+titik panas	NN
+yang
+mengindikasikan
+Karhutla	NNP
+di
+seluruh
+Riau	NNP
+.
+
+Dari
+43
+titik panas	NN
+,
+27
+titik
+diantaranya
+terdeteksi
+di
+Kabupaten	NNP
+Kepulauan	NNP
+Meranti	NNP
+.
+
+Selain
+itu
+,
+13
+titik panas	NN
+terpantau
+di
+Pelalawan	NNP
+,
+dua
+titik
+di
+Bengkalis	NNP
+dan
+satu
+lainnya
+di
+Indragiri	NNP
+Hilir	NNP
+.
+

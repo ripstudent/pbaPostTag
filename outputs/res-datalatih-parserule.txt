@@ -1,0 +1,16 @@
+
+sejak	SC,IN 
+dalam	IN 
+Selain	CC 
+sekitar	RB 
+seperti	SC,IN 
+seperti	SC,IN 
+seperti	SC,IN 
+seperti	SC,IN 
+saat	SC,NN 
+baru	JJ,NN,MD 
+dengan	SC,IN 
+saat	SC,NN 
+titik	NN 
+Selain	CC 
+titik	NN 
