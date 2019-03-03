@@ -1,0 +1,5 @@
+Ani	VB
+pergi	VB
+pasar	NN
+membeli	VB
+ikan	VB,NN

@@ -1,0 +1,5 @@
+Ani	^an<f>+i_VSA$
+pergi	^pergi<v>_VSA$
+pasar	^pasar<n>_NSD$
+membeli	^meN+beli<v>_VSA/meN+bel<n>+i_VSA$
+ikan	^i<f>+kan_VSA/ikan<n>_NSD$

@@ -5,12 +5,13 @@ Selain	CC
 sekitar	RB 
 seperti	SC,IN 
 seperti	SC,IN 
-seperti	SC,IN 
+seperti	IN 
 seperti	SC,IN 
 saat	SC,NN 
 baru	JJ,NN,MD 
 dengan	SC,IN 
 saat	SC,NN 
+kali	NN,VB 
 titik	NN 
 Selain	CC 
 titik	NN 

@@ -1,0 +1,13 @@
+Ani	VB
+pergi	VB
+ke	IN
+pasar	NN
+.	Z
+
+Dia	PRP
+membeli	VB
+ikan	NN,VB 
+sebanyak	CD
+empat	CD
+.	Z
+

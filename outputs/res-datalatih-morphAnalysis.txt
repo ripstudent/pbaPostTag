@@ -1,0 +1,84 @@
+akibat	NN
+kebakaran	NN
+hutan	NN
+lahan	NN
+terjadi	VB
+wilayah	NN
+pesisir	
+terpantau	VB
+mulai	VB
+menyelimuti	VB
+tipis	JJ
+terpantau	VB
+pagi	NN
+merupakan	VB
+kiriman	NN
+hari	NN
+dilanda	VB
+hebat	JJ
+Iya	
+asap	NN
+kiriman	NN
+kata	NN
+analis	NN
+(BMKG)	
+dilansir	VB
+memastikan	VB
+jarak	JJ
+pandang	VB
+cenderung	
+normal	JJ
+menganggu	
+aktivitas	NN
+penerbangan	NN
+Visibility	
+kilometer	
+asap	NN
+tipis	JJ
+mengganggu	VB
+penerbangan	NN
+ujarnya	VB
+warga	NN
+mengaku	VB
+mulai	VB
+merasakan	VB
+gangguan	NN
+mata	NN
+mulai	VB
+pedih	JJ
+akibat	NN
+terjadi	VB
+Muhammad	NN
+warga	NN
+tinggal	VB
+mengaku	VB
+udara	NN
+cenderung	
+terlihat	VB
+putih	JJ
+berasap	VB
+Cuaca	NN
+biasa	JJ
+Mata	NN
+pedih	JJ
+mengendarai	VB
+motor	NN
+sadar	JJ
+kata	NN
+BMKG	
+mendeteksi	VB
+sepanjang	
+pesisir	
+Berbeda	VB
+tertumpu	VB
+kali	VB,NN
+mendeteksi	VB
+menyebar	VB
+hari	NN
+mendeteksi	VB
+total	NN
+mengindikasikan	VB
+diantaranya	VB
+terdeteksi	VB
+terpantau	VB
+lainnya	

@@ -1,0 +1,5 @@
+^an<f>+i_VSA$
+^pergi<v>_VSA$
+^pasar<n>_NSD$
+^meN+beli<v>_VSA/meN+bel<n>+i_VSA$
+^i<f>+kan_VSA/ikan<n>_NSD$

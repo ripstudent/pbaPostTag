@@ -1,33 +1,33 @@
 Kabut asap	JJ
-
-
-
+akibat	NN
+kebakaran	NN
+hutan	NN
 dan	CC
-
+lahan	NN
 yang	SC
-
+terjadi	VB
 di	IN
-
-
+wilayah	NN
+pesisir	
 Provinsi	NNP
 Riau	NNP
-
-
-
+terpantau	VB
+mulai	VB
+menyelimuti	VB
 Kota	NNP
 Pekanbaru	NNP
 .	Z
 
 Kabut asap	JJ
-
+tipis	JJ
 yang	SC
-
+terpantau	VB
 sejak	IN,SC
-
+pagi	NN
 tadi	PR
 itu	PR
-
-
+merupakan	VB
+kiriman	NN
 dari	IN
 Kabupaten	NNP
 Kepulauan	NNP
@@ -36,33 +36,33 @@ Meranti	NNP
 yang	SC
 dalam	IN,NN
 2	CD
-
+hari	NN
 terakhir	OD
-
+dilanda	VB
 Karhutla	NNP
-
+hebat	JJ
 .	Z
 
 
 
 
 "	Z
-
+Iya	
 ,	Z
 memang	RB
-
+asap	NN
 .	Z
 
 Tapi	CC
-
+kiriman	NN
 dari	IN
 Meranti	NNP
 ,	Z
 "	Z
 
-
+kata	NN
 Staf	NNP
-
+analis	NN
 Badan	NNP
 Meteorologi	NNP
 ,	Z
@@ -70,7 +70,7 @@ Klimatologi	NNP
 ,	Z
 dan	CC
 Geofisika	NNP
-
+(BMKG)	
 Stasiun	NNP
 Pekanbaru	NNP
 ,	Z
@@ -80,7 +80,7 @@ di	IN
 Pekanbaru	NNP
 ,	Z
 yang	SC
-
+dilansir	VB
 Antara	NNP
 ,	Z
 Minggu	NNP
@@ -93,16 +93,16 @@ itu	PR
 ,	Z
 dia	PRP
 juga	RB
-
+memastikan	VB
 bahwa	SC
-
-
+jarak	JJ
+pandang	VB
 di	IN
 Kota	NNP
 Pekanbaru	NNP
 masih	MD
-
-
+cenderung	
+normal	JJ
 sekitar	IN,NN,RB
 8	CD
 km	NND
@@ -111,9 +111,9 @@ km	NND
 Kabut asap	JJ
 juga	RB
 belum	NEG
-
-
-
+menganggu	
+aktivitas	NN
+penerbangan	NN
 di	IN
 Bandara Internasional	NN
 Sultan	NNP
@@ -127,141 +127,142 @@ Pekanbaru	NNP
 
 
 "	Z
-
+Visibility	
 masih	MD
 delapan	CD
-
+kilometer	
 .	Z
 
 Masih	MD
-
-
+asap	NN
+tipis	JJ
 dan	CC
 belum	NEG
-
-
+mengganggu	VB
+penerbangan	NN
 ,	Z
 "	Z
 
-
+ujar	VB
+nya	PRP
 .	Z
 
 
 
 
 Sejumlah	CD
-
+warga	NN
 Pekanbaru	NNP
-
-
-
-
+mengaku	VB
+mulai	VB
+merasakan	VB
+gangguan	NN
 seperti	IN,SC
-
+mata	NN
 yang	SC
-
-
-
+mulai	VB
+pedih	JJ
+akibat	NN
 kabut asap	JJ
 yang	SC
-
+terjadi	VB
 di	IN
 Kota	NNP
 Pekanbaru	NNP
 .	Z
 
-
+Muhammad	NN
 Halimi	NNP
 ,	Z
-
+warga	NN
 yang	SC
-
+tinggal	VB
 di	IN
 Panam	NNP
 ,	Z
 Pekanbaru	NNP
-
-
+mengaku	VB
+udara	NN
 tidak	NEG
 seperti	IN,SC
 biasanya	RB
 ,	Z
 dan	CC
-
-
-
-
+cenderung	
+terlihat	VB
+putih	JJ
+berasap	VB
 .	Z
 
 
 
 
 "	Z
-
+Cuaca	NN
 memang	RB
 tidak	NEG
 seperti	IN,SC
-
+biasa	JJ
 .	Z
 
-
+Mata	NN
 juga	RB
 seperti	IN,SC
-
+pedih	JJ
 saat	SC,NN
 kita	PRP
-
-
+mengendarai	VB
+motor	NN
 .	Z
 
 Saya	PRP
 baru	MD,JJ,NN
-
+sadar	JJ
 kalau	SC
 ini	PR
 kabut asap	JJ
 ,	Z
 "	Z
 
-
+kata	NN
 Halimi	NNP
 .	Z
 
 
 
 
-
+BMKG	
 Stasiun	NNP
 Pekanbaru	NNP
-
+mendeteksi	VB
 puluhan	CD
 titik panas	NN
-
+sepanjang	
 akhir pekan	NN
 ini	PR
 di	IN
-
+pesisir	
 Riau	NNP
 .	Z
 
-
+Berbeda	VB
 dengan	IN,SC
 sebelumnya	SC
 ,	Z
 saat	SC,NN
 titik panas	NN
-
+tertumpu	VB
 di	IN
 Pulau	NNP
 Rupat	NNP
 Bengkalis	NNP
 ,	Z
-
+kali	VB,NN
 ini	PR
 BMKG	NNP
-
+mendeteksi	VB
 titik panas	NN
-
+menyebar	VB
 di	IN
 Kabupaten	NNP
 Kepulauan	NNP
@@ -273,16 +274,16 @@ Meranti	NNP
 
 Pada	IN
 Minggu	NNP
-
+hari	NN
 ini	PR
 ,	Z
 BMKG	NNP
-
-
+mendeteksi	VB
+total	NN
 43	CD
 titik panas	NN
 yang	SC
-
+mengindikasikan	VB
 Karhutla	NNP
 di	IN
 seluruh	CD
@@ -295,8 +296,8 @@ titik panas	NN
 ,	Z
 27	CD
 titik	NN,NND
-
-
+diantaranya	VB
+terdeteksi	VB
 di	IN
 Kabupaten	NNP
 Kepulauan	NNP
@@ -308,7 +309,7 @@ itu	PR
 ,	Z
 13	CD
 titik panas	NN
-
+terpantau	VB
 di	IN
 Pelalawan	NNP
 ,	Z
@@ -318,7 +319,8 @@ di	IN
 Bengkalis	NNP
 dan	CC
 satu	CD
-
+lain	JJ
+nya	PRP
 di	IN
 Indragiri	NNP
 Hilir	NNP

@@ -1,0 +1,3 @@
+ujar	^ujar<v>_VSA$
+diantara	^diantara<x>_X--$
+lain	^lain<a>_ASP$

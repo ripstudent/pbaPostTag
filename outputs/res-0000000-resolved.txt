@@ -1,7 +1,13 @@
-Fam	NNP
-sedang	JJ,CC,MD 
-memasak	VB
-nasi	NN
-untuk	SC 
-makan	VB
+
+
+ke	IN
+
+.	Z
+
+Dia	PRP
+
+
+sebanyak	CD
+empat	CD
+.	Z
 
