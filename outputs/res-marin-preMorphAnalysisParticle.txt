@@ -1,0 +1,6 @@
+kualitas	^kualitas<n>_NSD$
+sisa	^sisa<n>_NSD$
+pelaksanaan	^peN+laksana<v>+an_NSD$
+Nanti	^nanti<v>_VSA/nanti<d>_D--$
+kata	^kata<n>_NSD$
+lain	^lain<a>_ASP$

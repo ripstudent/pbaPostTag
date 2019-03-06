@@ -1,0 +1,466 @@
+9,14
+Pemerintah	NN
+melalui	
+Kementerian	NNP
+Pekerjaan	NNP
+Umum	NNP
+dan	CC
+Perumahan Rakyat	NN
+(PUPR)	
+akan	IN,MD
+menggelontorkan	
+anggaran	NN
+Rp4,28	NNP
+triliun	CD
+untuk	SC,IN
+membiayai	VB
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+tidak	NEG
+layak huni	JJ
+.	Z
+
+7,8,10
+Menteri	NN
+PUPR	NNP
+Basuki	NNP
+Hadimuljono	NNP
+mengatakan	VB
+anggaran	NN
+tersebut	PR,VB
+akan	IN,MD
+digunakan	VB
+untuk	SC,IN
+membedah	VB
+198.500	CD
+rumah	NN
+supaya	SC
+menjadi	VB
+layak huni	JJ
+.	Z
+
+
+
+
+
+
+
+1,6,8,13
+Selain	IN,CC
+itu	PR
+,	Z
+anggaran	NN
+juga	RB
+akan	IN,MD
+digunakan	VB
+untuk	SC,IN
+membangun	VB
+8.000	CD
+unit	NN
+rumah	NN
+baru	MD,JJ,NN
+.	Z
+
+2,20,23
+Anggaran	NN
+tersebut	PR,VB
+merupakan	VB
+lanjutan	NN
+dari	IN
+pelaksanaan	NN
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+berbentuk	VB
+Bantuan	NNP
+Stimulan	NNP
+Perumahan	NNP
+Swadaya	NNP
+yang	SC
+sudah	MD
+dilaksanakan	VB
+Kementerian	NNP
+PUPR	NNP
+sejak	IN,SC
+beberapa	CD
+waktu	NN
+lalu	CC,VB
+.	Z
+
+
+
+
+
+
+
+10,15
+"	Z
+Hal	NN
+ini	PR
+merupakan	VB
+bukti	NN
+nyata	JJ
+bahwa	SC
+pemerintah	NN
+hadir	VB
+dalam	IN,NN
+penyediaan	NN
+hunian	NN
+yang	SC
+layak	JJ
+bagi	IN,NN,VB
+MBR	NNP
+.	Z
+
+3,6
+Kami	PRP
+harapkan	VB
+dapat	MD,VB
+meningkatkan	VB
+kualitas	NN
+hidup	VB,NN
+para	DT
+penerima	NN
+bantuan	NN
+memiliki	VB
+rumah	NN
+yang	SC
+lebih	RB
+layak	JJ
+,	Z
+sehat	NN
+dan	CC
+nyaman	JJ
+,	Z
+"	Z
+
+3
+kata	NN
+Basuki	NNP
+seperti	IN,SC
+dikutip	VB
+dari	IN
+website	NN
+Kementerian	NNP
+PUPR	NNP
+,	Z
+Rabu	NNP
+(6/3).	CD
+
+
+
+
+
+3,6,13
+Basuki	
+mengatakan	VB
+selain	IN,CC
+menggelontorkan	
+anggaran	NN
+tersebut	PR,VB
+,	Z
+agar	SC
+pelaksanaan	NN
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+tersebut	PR,VB
+kualitas	NN
+nya	PRP
+makin	RB
+baik	JJ
+,	Z
+pemerintah	NN
+juga	RB
+menaikkan	VB
+besaran	NN
+bantuan	NN
+.	Z
+
+1
+Untuk	SC,IN
+kategori	NN
+bedah	VB
+rumah	NN
+berbentuk	VB
+peningkatan	NN
+kualitas	NN
+rumah	NN
+swadaya	
+,	Z
+bantuan	NN
+diberikan	VB
+Rp17,5	NNP
+juta	CD
+,	Z
+atau	CC
+naik	VB
+dari	IN
+sebelumnya	SC
+yang	SC
+hanya	RB
+Rp15	NNP
+juta	CD
+.	Z
+
+
+
+2,6,12
+Bantuan	NN
+tersebut	PR,VB
+Rp15	NNP
+juta	CD
+diberikan	VB
+untuk	SC,IN
+pembelian	NN
+bahan bangunan	VB
+dan	CC
+Rp2,5	NNP
+juta	CD
+untuk	SC,IN
+upah	NN
+pekerja	NN
+.	Z
+
+2
+Khusus	JJ
+untuk	SC,IN
+pulau-pulau	NN
+kecil	JJ
+,	Z
+pegunungan	NN
+di	IN
+Provinsi	NNP
+Papua	NNP
+dan	CC
+Papua	NNP
+Barat	NNP
+,	Z
+bantuan	NN
+diberikan	VB
+Rp35	NNP
+juta	CD
+.	Z
+
+2,6,14
+Bantuan	NN
+tersebut	PR,VB
+Rp30	NNP
+juta	CD
+diberikan	VB
+untuk	SC,IN
+pembelian	NN
+bahan bangunan	VB
+dan	CC
+Rp5	NNP
+juta	CD
+sisa	NN
+nya	PRP
+untuk	SC,IN
+ongkos	NN
+tukang	NN
+.	Z
+
+3,7
+Sementara itu	
+,	Z
+untuk	SC,IN
+kategori	NN
+pembangunan	NN
+rumah	NN
+baru	MD,JJ,NN
+,	Z
+bantuan	NN
+dinaikkan	VB
+dari	IN
+Rp30	NNP
+juta	CD
+menjadi	VB
+Rp35	NNP
+juta	CD
+.	Z
+
+
+
+
+
+
+
+13,14
+Direktur Jenderal	NN
+Penyediaan	NNP
+Perumahan	NNP
+Kementerian	NNP
+PUPR	NNP
+Khalawi	NNP
+Abdul	NNP
+Hamid	NNP
+mengatakan	VB
+bantuan	NN
+tidak	NEG
+diberikan	VB
+dalam	IN,NN
+bentuk	NN,NND
+uang tunai	NN
+,	Z
+tapi	CC
+bahan bangunan	VB
+.	Z
+
+1,8,11
+Dalam	IN,NN
+pelaksanaan	NN
+nya	PRP
+,	Z
+program	NN
+dijalankan	VB
+masyarakat	NN
+dengan	IN,SC
+membentuk	VB
+kelompok	NN
+untuk	SC,IN
+memperbaiki	VB
+atau	CC
+membangun	VB
+rumah	NN
+secara	JJ
+gotong royong	VB
+.	Z
+
+
+
+
+
+
+
+
+
+
+
+8
+"	Z
+Nanti	VB
+nya	PRP
+tukang	NN
+yang	SC
+mengerjakan	VB
+juga	RB
+bisa	MD,NN
+diberikan	VB
+upah	NN
+jika	SC
+memang	RB
+diperlukan	VB
+.	Z
+
+1,6,9,11
+Dengan	IN,SC
+demikian	PR
+mereka	PRP
+tidak	NEG
+terbebani	VB
+untuk	SC,IN
+mengeluarkan	VB
+biaya	NN
+untuk	SC,IN
+upah	NN
+kerja	VB,NN
+tukang	NN
+,	Z
+"	Z
+
+
+kata	NN
+nya	PRP
+.	Z
+
+
+
+
+
+
+
+3
+Bantuan	NN
+diberikan	VB
+dengan	IN,SC
+beberapa	CD
+kriteria	NN
+.	Z
+
+2,15
+Kriteria	NN
+tersebut	PR,VB
+antara	
+lain;	
+Warga Negara	NN
+Indonesia	NNP
+yang	SC
+sudah	MD
+berkeluarga	VB
+,	Z
+memiliki	VB
+atau	CC
+menguasai	VB
+tanah	NN
+dengan	IN,SC
+alas	NN
+hak	NN
+yang	SC
+sah	JJ
+,	Z
+belum	NEG
+memiliki	VB
+rumah	NN
+atau	CC
+memiliki	VB
+dan	CC
+menempati	VB
+satu-satunya	JJ
+rumah	NN
+tidak	NEG
+layak huni	JJ
+.	Z
+
+
+
+1,13,23,32
+Selain	IN,CC
+itu	PR
+,	Z
+penerima	NN
+bantuan	NN
+juga	RB
+disyaratkan	VB
+belum	NEG
+pernah	MD
+memperoleh	VB
+bantuan	NN
+pemerintah	NN
+untuk	SC,IN
+program	NN
+perumahan	NN
+lain	JJ
+nya	PRP
+,	Z
+penghasilan	NN
+kurang	RB
+atau	CC
+sama	JJ
+dengan	IN,SC
+upah	NN
+minimal	JJ
+provinsi	NN
+dan	CC
+bersedia	VB
+berswadaya	
+membentuk	VB
+kelompok	NN
+dengan	IN,SC
+penyataan	NN
+tanggung renteng	NN
+.	Z
+
+
+

@@ -1,0 +1,10 @@
+Sa	^sa<f>_F--$
+satu	^satu<c>_CC-$
+data	^data<n>_NSD$
+popularitas	^popularitas<n>_NSD$
+papar	^papar<v>_VSA$
+lain	^lain<a>_ASP$
+jelas	^jelas<a>_ASP$
+Harapan	^harap<v>+an_NSD$
+profil	^profil<n>_NSD$
+beber	^beber<v>_VSA$

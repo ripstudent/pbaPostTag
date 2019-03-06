@@ -1,0 +1,172 @@
+Masyarakat	NN
+mudah	JJ
+mendapatkan	VB
+informasi	NN
+calon	NN
+legislatif	JJ
+(caleg)	
+Salah	JJ
+satunya	
+melalui	
+aplikasi	NN
+diunduh	VB
+Aplikasi	NN
+diciptakan	VB
+(MGM)	
+(FILKOM)	
+(UB)	
+(komisi	
+pemilihan	NN
+umum)	
+datanya	NN
+mendasar	VB
+aplikasi	NN
+detail	NN
+ujar	VB
+com	
+aplikasi	NN
+terdapat	VB
+fitur	NN
+pilihan	NN
+mudah	JJ
+diakses	VB
+kolom	NN
+caleg	
+pilihan	NN
+partai	NN
+akun	NN
+memperoleh	VB
+informasi	NN
+seorang	JJ
+caleg	
+partai	NN
+tertentu	JJ
+pengguna	NN
+langsung	JJ
+mencari	VB
+kolom	NN
+caleg	
+Nanti	VB
+keluar	VB
+info	
+detail	NN
+tentang	VB
+caleg	
+Misal	NN
+mencari	VB
+data	NN
+caleg	
+(Krisdayanti).	
+klik	NN
+nanti	VB
+keluar	VB
+foto	NN
+jabatan	NN
+motivasi	NN
+mengikuti	VB
+pemilihan	NN
+caleg	
+terang	JJ
+diklaim	VB
+memberikan	VB
+informasi	NN
+detail	NN
+dibanding	VB
+aplikasi	NN
+serupa	JJ
+ada	JJ
+kolom	NN
+penilaian	NN
+rekomendasi	NN
+caleg	
+Penilaian	NN
+caleg	
+dilihat	VB
+kompetensi	NN
+komitmen	NN
+popularitasnya	NN
+Misal	NN
+soal	NN
+pendidikan	NN
+pendidikan	NN
+tinggi	JJ
+nanti	VB
+mendapat	VB
+nilai	VB,NN
+paparnya	VB
+ada	JJ
+parameter	NN
+penilaian	NN
+Mulai	VB
+pendidikan	NN
+organisasi	NN
+pekerjaan	NN
+visi-misi	NN
+rekam	VB
+jejak	NN
+karya	NN
+prestasi	NN
+faktor	NN
+popularitas	NN
+lainnya	
+Informasi	NN
+dikumpulkan	VB
+tim	NN
+data	NN
+Ada	JJ
+tambahan	NN
+lipsus	
+(liputan	
+khusus),	
+mencari	VB
+detail	NN
+jelasnya	JJ
+aplikasi	NN
+pengguna	NN
+berinteraksi	VB
+caleg	
+meninggalkan	VB
+pesan	NN
+kolom	NN
+komentar	NN
+komentar	NN
+langsung	JJ
+terkoneksi	VB
+media	NN
+sosial	NN
+(medsos)	
+caleg	
+caleg	
+tingkat	NN
+masuk	VB
+ke depan	
+caleg	
+dimasukkan	VB
+Herman	
+mengaku	VB
+penciptaan	NN
+aplikasi	NN
+Motivasi	NN
+pembuatan	NN
+aplikasi	NN
+pemilih	NN
+terutama	JJ
+kalangan	NN
+mempelajari	VB
+caleg	
+dipilih	VB
+Harapannya	NN
+anggota	NN
+terpilih	VB
+berkualitas	VB
+(pemilih)	
+mempelajari	VB
+dulu	
+profilnya	NN
+bebernya	VB
+di-launching	
+awal	NN
+kini	
+aplikasi	NN
+diunduh	VB
+pengguna	NN

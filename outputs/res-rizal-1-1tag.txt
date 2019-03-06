@@ -1,0 +1,420 @@
+Masyarakat
+bisa	MD,NN
+semakin	RB
+mudah
+mendapatkan
+informasi
+calon
+legislatif
+(caleg)
+di	IN
+Pemilu	NNP
+2019	CD
+.	Z
+
+
+Salah
+satunya
+melalui
+aplikasi
+InfoCALEG2019	NNP
+yang	SC
+bisa	MD,NN
+diunduh
+di	IN
+Playstore	NNP
+.	Z
+
+
+Aplikasi
+tersebut	PR,VB
+diciptakan
+Kepala	NNP
+Laboratorium	NNP
+Teknologi	NNP
+,	Z
+Media	NNP
+,	Z
+Game	NNP
+,	Z
+dan	CC
+Mobile	NNP
+(MGM)
+Fakultas	NNP
+Ilmu	NNP
+Komputer	NNP
+(FILKOM)
+Universitas	NNP
+Brawijaya	NNP
+(UB)
+Herman	NNP
+Tolle	NNP
+.	Z
+
+
+"	Z
+Di	IN
+KPU	NNP
+(komisi
+pemilihan
+umum)
+datanya
+masih	MD
+mendasar
+.	Z
+
+Di	IN
+aplikasi
+ini	PR
+lebih	RB
+detail
+,	Z
+"	Z
+
+ujar
+Herman	NNP
+kepada	IN
+JawaPos	NNP
+.	Z
+
+com
+,	Z
+Senin	NNP
+(25/2).	CD
+
+Dalam	IN,NN
+aplikasi
+terdapat
+beberapa	CD
+fitur
+pilihan
+yang	SC
+mudah
+diakses
+.	Z
+
+Seperti	IN,SC
+kolom
+caleg
+,	Z
+pilihan
+partai
+,	Z
+dan	CC
+akun
+.	Z
+
+Bila	SC
+ingin	RB
+memperoleh
+informasi
+mengenai	IN,VB
+seorang
+caleg
+dari	IN
+partai
+tertentu
+,	Z
+pengguna
+bisa	MD,NN
+langsung
+mencari
+di	IN
+kolom
+caleg
+.	Z
+
+Nanti
+keluar
+info
+detail
+tentang
+caleg
+tersebut	PR,VB
+.	Z
+
+
+"	Z
+Misal
+mau	MD,NN,RB
+mencari
+data
+caleg
+KD	NNP
+(Krisdayanti).
+Langsung	NNP
+klik
+,	Z
+nanti
+keluar
+foto
+,	Z
+riwayat hidup	NN
+,	Z
+jabatan
+,	Z
+dan	CC
+motivasi
+mengikuti
+pemilihan
+caleg
+,	Z
+"	Z
+
+terang
+Herman	NNP
+.	Z
+
+
+InfoCALEG2019	CD
+diklaim
+memberikan
+informasi
+yang	SC
+lebih	RB
+detail
+dibanding
+aplikasi
+serupa
+.	Z
+
+Bahkan	RB
+ada
+kolom
+penilaian
+dan	CC
+rekomendasi
+caleg
+.	Z
+
+
+"	Z
+Penilaian
+caleg
+itu	PR
+dilihat
+dari	IN
+kompetensi
+,	Z
+komitmen
+,	Z
+dan	CC
+popularitasnya
+.	Z
+
+Misal
+soal
+pendidikan
+,	Z
+kalau	SC
+pendidikan
+paling	RB
+tinggi
+,	Z
+nanti
+mendapat
+nilai
+sekian	PR
+,	Z
+"	Z
+
+paparnya
+.	Z
+
+
+Setidaknya	RB
+ada
+9	CD
+parameter
+penilaian
+.	Z
+
+Mulai
+dari	IN
+pendidikan
+,	Z
+organisasi
+,	Z
+pekerjaan
+,	Z
+visi-misi
+,	Z
+rekam
+jejak
+,	Z
+karya
+atau	CC
+prestasi
+,	Z
+faktor
+popularitas
+,	Z
+dan	CC
+lainnya
+.	Z
+
+Informasi
+tersebut	PR,VB
+dikumpulkan
+tim
+data
+.	Z
+
+
+"	Z
+Ada
+tambahan
+lipsus
+(liputan
+khusus),
+kami	PRP
+mencari
+lebih	RB
+detail
+,	Z
+"	Z
+
+jelasnya
+.	Z
+
+
+Di	IN
+aplikasi
+tersebut	PR,VB
+,	Z
+pengguna
+bisa	MD,NN
+berinteraksi
+dengan	IN,SC
+caleg
+dengan	IN,SC
+meninggalkan
+pesan
+di	IN
+kolom
+komentar
+.	Z
+
+Selanjutnya	RB
+,	Z
+komentar
+bisa	MD,NN
+langsung
+terkoneksi
+ke	IN
+media
+sosial
+(medsos)
+masing-masing	CD,PRP
+caleg
+.	Z
+
+Untuk	SC,IN
+saat	SC,NN
+ini	PR
+,	Z
+baru	MD,JJ,NN
+caleg
+tingkat
+DPR	NNP
+RI	NNP
+yang	SC
+masuk
+dalam	IN,NN
+InfoCALEG2019	NNP
+.	Z
+
+
+Namun	CC
+ke depan
+,	Z
+caleg
+DPRD	NNP
+juga	RB
+akan	IN,MD
+dimasukkan
+.	Z
+
+
+Herman
+mengaku
+,	Z
+penciptaan
+aplikasi
+itu	PR
+tidak	NEG
+bekerja sama	VB
+dengan	IN,SC
+KPU	NNP
+.	Z
+
+Motivasi
+pembuatan
+aplikasi
+adalah	VB
+agar	SC
+pemilih
+terutama
+kalangan
+anak muda	NN
+bisa	MD,NN
+mempelajari
+latar belakang	NN
+caleg
+yang	SC
+akan	IN,MD
+dipilih
+.	Z
+
+
+"	Z
+Harapannya
+,	Z
+anggota
+DPR	NNP
+terpilih
+lebih	RB
+berkualitas
+.	Z
+
+Dengan	IN,SC
+begini	PR
+,	Z
+mereka	PRP
+(pemilih)
+bisa	MD,NN
+mempelajari
+dulu
+,	Z
+profilnya
+seperti	IN,SC
+apa	WH,SC
+,	Z
+"	Z
+
+bebernya
+.	Z
+
+
+InfoCALEG2019	CD
+baru	MD,JJ,NN
+di-launching
+di	IN
+Playstore	NNP
+awal
+Februari	NNP
+2019	CD
+.	Z
+
+
+Hingga	IN,SC
+kini
+,	Z
+aplikasi
+sudah	MD
+diunduh
+sekitar	IN,NN,RB
+50	CD
+pengguna
+.	Z
+

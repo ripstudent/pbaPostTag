@@ -1,0 +1,428 @@
+Masyarakat	NN
+bisa	MD,NN 
+semakin	RB
+mudah	JJ
+mendapatkan	VB
+informasi	NN
+calon	NN
+legislatif	JJ
+(caleg)	X
+di	IN
+Pemilu	NNP
+2019	CD
+.	Z
+
+
+Salah	JJ
+satunya	X
+melalui	X
+aplikasi	NN
+InfoCALEG2019	NNP
+yang	SC
+bisa	MD 
+diunduh	VB
+di	IN
+Playstore	NNP
+.	Z
+
+
+Aplikasi	NN
+tersebut	PR,VB 
+diciptakan	VB
+Kepala	NNP
+Laboratorium	NNP
+Teknologi	NNP
+,	Z
+Media	NNP
+,	Z
+Game	NNP
+,	Z
+dan	CC
+Mobile	NNP
+(MGM)	X
+Fakultas	NNP
+Ilmu	NNP
+Komputer	NNP
+(FILKOM)	X
+Universitas	NNP
+Brawijaya	NNP
+(UB)	X
+Herman	NNP
+Tolle	NNP
+.	Z
+
+
+"	Z
+Di	IN
+KPU	NNP
+(komisi	X
+pemilihan	NN
+umum)	X
+data	NN
+nya	PRP
+masih	MD
+mendasar	VB
+.	Z
+
+Di	IN
+aplikasi	NN
+ini	PR
+lebih	RB
+detail	NN
+,	Z
+"	Z
+
+ujar	VB
+Herman	NNP
+kepada	IN
+JawaPos	NNP
+.	Z
+
+com	X
+,	Z
+Senin	NNP
+(25/2).	CD
+
+Dalam	IN 
+aplikasi	NN
+terdapat	VB
+beberapa	CD
+fitur	NN
+pilihan	NN
+yang	SC
+mudah	JJ
+diakses	VB
+.	Z
+
+Seperti	SC,IN 
+kolom	NN
+caleg	X
+,	Z
+pilihan	NN
+partai	NN
+,	Z
+dan	CC
+akun	NN
+.	Z
+
+Bila	SC
+ingin	RB
+memperoleh	VB
+informasi	NN
+mengenai	IN,VB 
+seorang	JJ
+caleg	X
+dari	IN
+partai	NN
+tertentu	JJ
+,	Z
+pengguna	NN
+bisa	MD 
+langsung	JJ
+mencari	VB
+di	IN
+kolom	NN
+caleg	X
+.	Z
+
+Nanti	VB
+keluar	VB
+info	X
+detail	NN
+tentang	VB
+caleg	X
+tersebut	PR,VB 
+.	Z
+
+
+"	Z
+Misal	NN
+mau	NN,RB,MD 
+mencari	VB
+data	NN
+caleg	X
+KD	NNP
+(Krisdayanti).	X
+Langsung	NNP
+klik	NN
+,	Z
+nanti	VB
+keluar	VB
+foto	NN
+,	Z
+riwayat hidup	NN
+,	Z
+jabatan	NN
+,	Z
+dan	CC
+motivasi	NN
+mengikuti	VB
+pemilihan	NN
+caleg	X
+,	Z
+"	Z
+
+terang	JJ
+Herman	NNP
+.	Z
+
+
+InfoCALEG2019	CD
+diklaim	VB
+memberikan	VB
+informasi	NN
+yang	SC
+lebih	RB
+detail	NN
+dibanding	VB
+aplikasi	NN
+serupa	JJ
+.	Z
+
+Bahkan	RB
+ada	JJ
+kolom	NN
+penilaian	NN
+dan	CC
+rekomendasi	NN
+caleg	X
+.	Z
+
+
+"	Z
+Penilaian	NN
+caleg	X
+itu	PR
+dilihat	VB
+dari	IN
+kompetensi	NN
+,	Z
+komitmen	NN
+,	Z
+dan	CC
+popularitas	NN
+nya	PRP
+.	Z
+
+Misal	NN
+soal	NN
+pendidikan	NN
+,	Z
+kalau	SC
+pendidikan	NN
+paling	RB
+tinggi	JJ
+,	Z
+nanti	VB
+mendapat	VB
+nilai	NN,VB 
+sekian	PR
+,	Z
+"	Z
+
+papar	VB
+nya	PRP
+.	Z
+
+
+Setidaknya	RB
+ada	JJ
+9	CD
+parameter	NN
+penilaian	NN
+.	Z
+
+Mulai	VB
+dari	IN
+pendidikan	NN
+,	Z
+organisasi	NN
+,	Z
+pekerjaan	NN
+,	Z
+visi-misi	NN
+,	Z
+rekam	VB
+jejak	NN
+,	Z
+karya	NN
+atau	CC
+prestasi	NN
+,	Z
+faktor	NN
+popularitas	NN
+,	Z
+dan	CC
+lain	JJ
+nya	PRP
+.	Z
+
+Informasi	NN
+tersebut	PR,VB 
+dikumpulkan	VB
+tim	NN
+data	NN
+.	Z
+
+
+"	Z
+Ada	JJ
+tambahan	NN
+lipsus	X
+(liputan	X
+khusus),	X
+kami	PRP
+mencari	VB
+lebih	RB
+detail	NN
+,	Z
+"	Z
+
+jelas	JJ
+nya	PRP
+.	Z
+
+
+Di	IN
+aplikasi	NN
+tersebut	PR,VB 
+,	Z
+pengguna	NN
+bisa	MD 
+berinteraksi	VB
+dengan	SC,IN 
+caleg	X
+dengan	SC 
+meninggalkan	VB
+pesan	NN
+di	IN
+kolom	NN
+komentar	NN
+.	Z
+
+Selanjutnya	RB
+,	Z
+komentar	NN
+bisa	MD 
+langsung	JJ
+terkoneksi	VB
+ke	IN
+media	NN
+sosial	NN
+(medsos)	X
+masing-masing	PRP 
+caleg	X
+.	Z
+
+Untuk	SC,IN 
+saat	SC,NN 
+ini	PR
+,	Z
+baru	JJ,NN,MD 
+caleg	X
+tingkat	NN
+DPR	NNP
+RI	NNP
+yang	SC
+masuk	VB
+dalam	IN 
+InfoCALEG2019	NNP
+.	Z
+
+
+Namun	CC
+ke depan	X
+,	Z
+caleg	X
+DPRD	NNP
+juga	RB
+akan	IN,MD 
+dimasukkan	VB
+.	Z
+
+
+Herman	NNP
+mengaku	VB
+,	Z
+penciptaan	NN
+aplikasi	NN
+itu	PR
+tidak	NEG
+bekerja sama	VB
+dengan	IN 
+KPU	NNP
+.	Z
+
+Motivasi	NN
+pembuatan	NN
+aplikasi	NN
+adalah	VB
+agar	SC
+pemilih	NN
+terutama	JJ
+kalangan	NN
+anak muda	NN
+bisa	MD 
+mempelajari	VB
+latar belakang	NN
+caleg	X
+yang	SC
+akan	IN,MD 
+dipilih	VB
+.	Z
+
+
+"	Z
+Harapan	NN
+nya	PRP
+,	Z
+anggota	NN
+DPR	NNP
+terpilih	VB
+lebih	RB
+berkualitas	VB
+.	Z
+
+Dengan	SC,IN 
+begini	PR
+,	Z
+mereka	PRP
+(pemilih)	X
+bisa	MD 
+mempelajari	VB
+dulu	X
+,	Z
+profil	NN
+nya	PRP
+seperti	SC,IN 
+apa	WH 
+,	Z
+"	Z
+
+beber	VB
+nya	PRP
+.	Z
+
+
+InfoCALEG2019	CD
+baru	JJ,NN,MD 
+di-launching	X
+di	IN
+Playstore	NNP
+awal	NN
+Februari	NNP
+2019	CD
+.	Z
+
+
+Hingga	SC,IN 
+kini	X
+,	Z
+aplikasi	NN
+sudah	MD
+diunduh	VB
+sekitar	RB 
+50	CD
+pengguna	NN
+.	Z
+

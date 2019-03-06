@@ -1,0 +1,6 @@
+^kualitas<n>_NSD$
+^sisa<n>_NSD$
+^peN+laksana<v>+an_NSD$
+^nanti<v>_VSA/nanti<d>_D--$
+^kata<n>_NSD$
+^lain<a>_ASP$

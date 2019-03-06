@@ -1,0 +1,416 @@
+Pemerintah
+melalui
+Kementerian	NNP
+Pekerjaan	NNP
+Umum	NNP
+dan	CC
+Perumahan Rakyat	NN
+(PUPR)
+akan	IN,MD
+menggelontorkan
+anggaran
+Rp4,28	NNP
+triliun	CD
+untuk	SC,IN
+membiayai
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+tidak	NEG
+layak huni	JJ
+.	Z
+
+Menteri
+PUPR	NNP
+Basuki	NNP
+Hadimuljono	NNP
+mengatakan
+anggaran
+tersebut	PR,VB
+akan	IN,MD
+digunakan
+untuk	SC,IN
+membedah
+198.500	CD
+rumah
+supaya	SC
+menjadi
+layak huni	JJ
+.	Z
+
+
+
+
+Selain	IN,CC
+itu	PR
+,	Z
+anggaran
+juga	RB
+akan	IN,MD
+digunakan
+untuk	SC,IN
+membangun
+8.000	CD
+unit
+rumah
+baru	MD,JJ,NN
+.	Z
+
+Anggaran
+tersebut	PR,VB
+merupakan
+lanjutan
+dari	IN
+pelaksanaan
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+berbentuk
+Bantuan	NNP
+Stimulan	NNP
+Perumahan	NNP
+Swadaya	NNP
+yang	SC
+sudah	MD
+dilaksanakan
+Kementerian	NNP
+PUPR	NNP
+sejak	IN,SC
+beberapa	CD
+waktu
+lalu	CC,VB
+.	Z
+
+
+
+
+"	Z
+Hal
+ini	PR
+merupakan
+bukti
+nyata
+bahwa	SC
+pemerintah
+hadir
+dalam	IN,NN
+penyediaan
+hunian
+yang	SC
+layak
+bagi	IN,NN,VB
+MBR	NNP
+.	Z
+
+Kami	PRP
+harapkan
+dapat	MD,VB
+meningkatkan
+kualitas
+hidup
+para	DT
+penerima
+bantuan
+memiliki
+rumah
+yang	SC
+lebih	RB
+layak
+,	Z
+sehat
+dan	CC
+nyaman
+,	Z
+"	Z
+
+kata
+Basuki	NNP
+seperti	IN,SC
+dikutip
+dari	IN
+website
+Kementerian	NNP
+PUPR	NNP
+,	Z
+Rabu	NNP
+(6/3).	CD
+
+
+
+Basuki
+mengatakan
+selain	IN,CC
+menggelontorkan
+anggaran
+tersebut	PR,VB
+,	Z
+agar	SC
+pelaksanaan
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+tersebut	PR,VB
+kualitasnya
+makin	RB
+baik
+,	Z
+pemerintah
+juga	RB
+menaikkan
+besaran
+bantuan
+.	Z
+
+Untuk	SC,IN
+kategori
+bedah
+rumah
+berbentuk
+peningkatan
+kualitas
+rumah
+swadaya
+,	Z
+bantuan
+diberikan
+Rp17,5	NNP
+juta	CD
+,	Z
+atau	CC
+naik
+dari	IN
+sebelumnya	SC
+yang	SC
+hanya	RB
+Rp15	NNP
+juta	CD
+.	Z
+
+
+Bantuan
+tersebut	PR,VB
+Rp15	NNP
+juta	CD
+diberikan
+untuk	SC,IN
+pembelian
+bahan bangunan	VB
+dan	CC
+Rp2,5	NNP
+juta	CD
+untuk	SC,IN
+upah
+pekerja
+.	Z
+
+Khusus
+untuk	SC,IN
+pulau-pulau
+kecil
+,	Z
+pegunungan
+di	IN
+Provinsi	NNP
+Papua	NNP
+dan	CC
+Papua	NNP
+Barat	NNP
+,	Z
+bantuan
+diberikan
+Rp35	NNP
+juta	CD
+.	Z
+
+Bantuan
+tersebut	PR,VB
+Rp30	NNP
+juta	CD
+diberikan
+untuk	SC,IN
+pembelian
+bahan bangunan	VB
+dan	CC
+Rp5	NNP
+juta	CD
+sisanya
+untuk	SC,IN
+ongkos
+tukang
+.	Z
+
+Sementara itu
+,	Z
+untuk	SC,IN
+kategori
+pembangunan
+rumah
+baru	MD,JJ,NN
+,	Z
+bantuan
+dinaikkan
+dari	IN
+Rp30	NNP
+juta	CD
+menjadi
+Rp35	NNP
+juta	CD
+.	Z
+
+
+
+
+Direktur Jenderal	NN
+Penyediaan	NNP
+Perumahan	NNP
+Kementerian	NNP
+PUPR	NNP
+Khalawi	NNP
+Abdul	NNP
+Hamid	NNP
+mengatakan
+bantuan
+tidak	NEG
+diberikan
+dalam	IN,NN
+bentuk	NN,NND
+uang tunai	NN
+,	Z
+tapi	CC
+bahan bangunan	VB
+.	Z
+
+Dalam	IN,NN
+pelaksanaannya
+,	Z
+program
+dijalankan
+masyarakat
+dengan	IN,SC
+membentuk
+kelompok
+untuk	SC,IN
+memperbaiki
+atau	CC
+membangun
+rumah
+secara
+gotong royong	VB
+.	Z
+
+
+
+
+
+
+"	Z
+Nantinya
+tukang
+yang	SC
+mengerjakan
+juga	RB
+bisa	MD,NN
+diberikan
+upah
+jika	SC
+memang	RB
+diperlukan
+.	Z
+
+Dengan	IN,SC
+demikian	PR
+mereka	PRP
+tidak	NEG
+terbebani
+untuk	SC,IN
+mengeluarkan
+biaya
+untuk	SC,IN
+upah
+kerja
+tukang
+,	Z
+"	Z
+
+katanya
+.	Z
+
+
+
+
+Bantuan
+diberikan
+dengan	IN,SC
+beberapa	CD
+kriteria
+.	Z
+
+Kriteria
+tersebut	PR,VB
+antara
+lain;
+Warga Negara	NN
+Indonesia	NNP
+yang	SC
+sudah	MD
+berkeluarga
+,	Z
+memiliki
+atau	CC
+menguasai
+tanah
+dengan	IN,SC
+alas
+hak
+yang	SC
+sah
+,	Z
+belum	NEG
+memiliki
+rumah
+atau	CC
+memiliki
+dan	CC
+menempati
+satu-satunya	JJ
+rumah
+tidak	NEG
+layak huni	JJ
+.	Z
+
+
+Selain	IN,CC
+itu	PR
+,	Z
+penerima
+bantuan
+juga	RB
+disyaratkan
+belum	NEG
+pernah	MD
+memperoleh
+bantuan
+pemerintah
+untuk	SC,IN
+program
+perumahan
+lainnya
+,	Z
+penghasilan
+kurang	RB
+atau	CC
+sama
+dengan	IN,SC
+upah
+minimal
+provinsi
+dan	CC
+bersedia
+berswadaya
+membentuk
+kelompok
+dengan	IN,SC
+penyataan
+tanggung renteng	NN
+.	Z
+

@@ -1,0 +1,10 @@
+Sa	
+satu	
+data	NN
+popularitas	NN
+papar	VB
+lain	JJ
+jelas	JJ
+Harapan	NN
+profil	NN
+beber	VB

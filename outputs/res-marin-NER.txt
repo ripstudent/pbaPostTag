@@ -1,0 +1,416 @@
+Pemerintah
+melalui
+Kementerian	NNP
+Pekerjaan	NNP
+Umum	NNP
+dan
+Perumahan Rakyat	NN
+(PUPR)
+akan
+menggelontorkan
+anggaran
+Rp4,28	NNP
+triliun
+untuk
+membiayai
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+tidak
+layak huni	JJ
+.
+
+Menteri
+PUPR	NNP
+Basuki	NNP
+Hadimuljono	NNP
+mengatakan
+anggaran
+tersebut
+akan
+digunakan
+untuk
+membedah
+198.500
+rumah
+supaya
+menjadi
+layak huni	JJ
+.
+
+
+
+
+Selain
+itu
+,
+anggaran
+juga
+akan
+digunakan
+untuk
+membangun
+8.000
+unit
+rumah
+baru
+.
+
+Anggaran
+tersebut
+merupakan
+lanjutan
+dari
+pelaksanaan
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+berbentuk
+Bantuan	NNP
+Stimulan	NNP
+Perumahan	NNP
+Swadaya	NNP
+yang
+sudah
+dilaksanakan
+Kementerian	NNP
+PUPR	NNP
+sejak
+beberapa
+waktu
+lalu
+.
+
+
+
+
+"
+Hal
+ini
+merupakan
+bukti
+nyata
+bahwa
+pemerintah
+hadir
+dalam
+penyediaan
+hunian
+yang
+layak
+bagi
+MBR	NNP
+.
+
+Kami
+harapkan
+dapat
+meningkatkan
+kualitas
+hidup
+para
+penerima
+bantuan
+memiliki
+rumah
+yang
+lebih
+layak
+,
+sehat
+dan
+nyaman
+,
+"
+
+kata
+Basuki	NNP
+seperti
+dikutip
+dari
+website
+Kementerian	NNP
+PUPR	NNP
+,
+Rabu	NNP
+(6/3).
+
+
+
+Basuki
+mengatakan
+selain
+menggelontorkan
+anggaran
+tersebut
+,
+agar
+pelaksanaan
+Program	NNP
+Bedah	NNP
+Rumah	NNP
+tersebut
+kualitasnya
+makin
+baik
+,
+pemerintah
+juga
+menaikkan
+besaran
+bantuan
+.
+
+Untuk
+kategori
+bedah
+rumah
+berbentuk
+peningkatan
+kualitas
+rumah
+swadaya
+,
+bantuan
+diberikan
+Rp17,5	NNP
+juta
+,
+atau
+naik
+dari
+sebelumnya
+yang
+hanya
+Rp15	NNP
+juta
+.
+
+
+Bantuan
+tersebut
+Rp15	NNP
+juta
+diberikan
+untuk
+pembelian
+bahan bangunan	VB
+dan
+Rp2,5	NNP
+juta
+untuk
+upah
+pekerja
+.
+
+Khusus
+untuk
+pulau-pulau
+kecil
+,
+pegunungan
+di
+Provinsi	NNP
+Papua	NNP
+dan
+Papua	NNP
+Barat	NNP
+,
+bantuan
+diberikan
+Rp35	NNP
+juta
+.
+
+Bantuan
+tersebut
+Rp30	NNP
+juta
+diberikan
+untuk
+pembelian
+bahan bangunan	VB
+dan
+Rp5	NNP
+juta
+sisanya
+untuk
+ongkos
+tukang
+.
+
+Sementara itu
+,
+untuk
+kategori
+pembangunan
+rumah
+baru
+,
+bantuan
+dinaikkan
+dari
+Rp30	NNP
+juta
+menjadi
+Rp35	NNP
+juta
+.
+
+
+
+
+Direktur Jenderal	NN
+Penyediaan	NNP
+Perumahan	NNP
+Kementerian	NNP
+PUPR	NNP
+Khalawi	NNP
+Abdul	NNP
+Hamid	NNP
+mengatakan
+bantuan
+tidak
+diberikan
+dalam
+bentuk
+uang tunai	NN
+,
+tapi
+bahan bangunan	VB
+.
+
+Dalam
+pelaksanaannya
+,
+program
+dijalankan
+masyarakat
+dengan
+membentuk
+kelompok
+untuk
+memperbaiki
+atau
+membangun
+rumah
+secara
+gotong royong	VB
+.
+
+
+
+
+
+
+"
+Nantinya
+tukang
+yang
+mengerjakan
+juga
+bisa
+diberikan
+upah
+jika
+memang
+diperlukan
+.
+
+Dengan
+demikian
+mereka
+tidak
+terbebani
+untuk
+mengeluarkan
+biaya
+untuk
+upah
+kerja
+tukang
+,
+"
+
+katanya
+.
+
+
+
+
+Bantuan
+diberikan
+dengan
+beberapa
+kriteria
+.
+
+Kriteria
+tersebut
+antara
+lain;
+Warga Negara	NN
+Indonesia	NNP
+yang
+sudah
+berkeluarga
+,
+memiliki
+atau
+menguasai
+tanah
+dengan
+alas
+hak
+yang
+sah
+,
+belum
+memiliki
+rumah
+atau
+memiliki
+dan
+menempati
+satu-satunya
+rumah
+tidak
+layak huni	JJ
+.
+
+
+Selain
+itu
+,
+penerima
+bantuan
+juga
+disyaratkan
+belum
+pernah
+memperoleh
+bantuan
+pemerintah
+untuk
+program
+perumahan
+lainnya
+,
+penghasilan
+kurang
+atau
+sama
+dengan
+upah
+minimal
+provinsi
+dan
+bersedia
+berswadaya
+membentuk
+kelompok
+dengan
+penyataan
+tanggung renteng	NN
+.
+

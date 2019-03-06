@@ -1,0 +1,6 @@
+kualitas	NN
+sisa	NN
+pelaksanaan	NN
+Nanti	VB
+kata	NN
+lain	JJ

@@ -1,0 +1,10 @@
+^sa<f>_F--$
+^satu<c>_CC-$
+^data<n>_NSD$
+^popularitas<n>_NSD$
+^papar<v>_VSA$
+^lain<a>_ASP$
+^jelas<a>_ASP$
+^harap<v>+an_NSD$
+^profil<n>_NSD$
+^beber<v>_VSA$
